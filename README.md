@@ -1,4 +1,4 @@
-# Data and code for performing analyses and plotting figures in "An essential and highly selective protein import pathway encoded by nucleus-forming phage"
+# Code for performing analyses and plotting figures in "An essential and highly selective protein import pathway encoded by nucleus-forming phage"
 
 ## **Related paper**
 Citation: Chase J. Morgan, Eray Enustun, Emily G. Armbruster, Erica A. Birkholz, Amy Prichard, Taylor Forman, Ann Aindow, Wichanan Wannasrichan, Sela Peters, Koe Inlow, Isabelle L. Shepherd, Alma Razavilar, Vorrapon Chaikeeratisak, Benjamin A. Adler, Brady F. Cress, Jennifer A. Doudna, Kit Pogliano, Elizabeth Villa, Kevin D. Corbett, and Joe Pogliano. An essential and highly selective protein import pathway encoded by nucleus-forming phage. (2024) DOI: http://doi.org/10.1101/2024.03.21.585822
