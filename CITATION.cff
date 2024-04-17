@@ -6,6 +6,8 @@ authors:
     orcid: https://orcid.org/0000-0002-2535-9613
 title: "Object-Based Colocalization Analysis"
 version: 1.0.1
-doi: 10.1101/2024.03.21.585822
-date-released: 2021-11-13
+identifiers:
+  - type: doi
+    value: 10.1101/2024.03.21.585822
+date-released: 2023-11-13
 url: "https://github.com/koeinlow/Colocalization_analysis_Pogliano_lab"
