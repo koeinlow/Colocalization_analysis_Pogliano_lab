@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Inlow
+    given-names: Koe
+    orcid: https://orcid.org/0000-0002-2535-9613
+title: "Object-Based Colocalization Analysis"
+version: 1.0.1
+identifiers:
+  - type: doi
+    value: 10.1101/2024.03.21.585822
+date-released: 2021-11-13
